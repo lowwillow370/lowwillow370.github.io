@@ -1,2 +1,7 @@
 # lowwillow370.github.io
-my website ... idk what else to say,also this is a test
+my website
+linkt to
+my youtube 
+https://www.youtube.com/@low_willow
+
+thats it for now

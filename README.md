@@ -1,5 +1,5 @@
 # lowwillow370.github.io
-my website
+this is my website that im going to use for my social
 linkt to
 my youtube 
 www.youtube.com/@low_willow

@@ -6,6 +6,6 @@ and
 <a href="https://open.spotify.com/playlist/5PmaJ9bVLkZrhEamwFR80k?si=a07f87529a7e4c1b"> my spotify playlist </a>
 and a
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"> cool vid </a>
-and a test file
-<a href="test.txt">Download File</a>
-thats it for now
+and a test 
+<a href="test.txt">File</a>
+ thats it for now
